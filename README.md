@@ -21,6 +21,7 @@ Tools: Git, Docker
 [LinkedIn](https://www.linkedin.com/in/belhassenbenali/)
 
 🚀 Current Projects
+
 Learning about advanced backend concepts.
 
 Building a personal banking project to practice Java and Spring Boot.
