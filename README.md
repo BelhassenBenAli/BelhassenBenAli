@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hello, I'm Belhassen!
+💻 Junior Backend Developer | Java Enthusiast | Problem Solver
 
-<!--
-**BelhassenBenAli/BelhassenBenAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently building my skills in Java backend development.
 
-Here are some ideas to get you started:
+📘 Constantly learning about algorithms, multithreading, and system design to deepen my understanding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 I’m open to discussions on backend development, software design, and best coding practices.
+
+
+🛠️ Languages & Tools
+Languages: Java, SQL, Javascript, Python
+Frameworks: Spring Boot, Hibernate
+Tools: Git, Docker
+
+📫 Let's Connect!
+[LinkedIn](https://www.linkedin.com/in/belhassenbenali/)
+🚀 Current Projects
+Learning about advanced backend concepts.
+Building a personal banking project to practice Java and Spring Boot.
+
