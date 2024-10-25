@@ -10,7 +10,9 @@
 
 🛠️ Languages & Tools
 Languages: Java, SQL, Javascript, Python
+
 Frameworks: Spring Boot, Hibernate
+
 Tools: Git, Docker
 
 📫 Let's Connect!
