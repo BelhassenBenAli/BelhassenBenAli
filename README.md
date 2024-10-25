@@ -1,4 +1,5 @@
 👋 Hello, I'm Belhassen!
+
 💻 Junior Backend Developer | Java Enthusiast | Problem Solver
 
 🌱 I’m currently building my skills in Java backend development.
@@ -9,6 +10,7 @@
 
 
 🛠️ Languages & Tools
+
 Languages: Java, SQL, Javascript, Python
 
 Frameworks: Spring Boot, Hibernate
@@ -20,5 +22,6 @@ Tools: Git, Docker
 
 🚀 Current Projects
 Learning about advanced backend concepts.
+
 Building a personal banking project to practice Java and Spring Boot.
 
